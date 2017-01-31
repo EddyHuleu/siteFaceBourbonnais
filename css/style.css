@@ -5,6 +5,15 @@ html, body {
   	color:#fff;
 }
 
+th{
+	color: black;
+}
+
+td{
+	color:black;
+}
+
+
 ul{ 
 	padding: 0; 
 }
@@ -30,15 +39,49 @@ height: 50px;
 line-height: 20px;
 text-align: left;
 }
+#ag2r{
+	padding-left: 30px;
+}
+
+#afmd{
+	padding-left: 20px;
+}
 
 #acse{
 	padding-left: 75px;
+}
+
+#anru{
+	padding-left: 35px;
+}
+
+#cuisines{
+	padding-left: 90px;
 }
 
 #laposte{
 	padding-left: 75px;
 }
 
+#apf{
+	padding-left: 35px;
+}
+
+#cuisines{
+	padding-left: 35px;
+}
+
+#cnam{
+	padding-left: 20px;
+}
+
+#ratp{
+	padding-left: 40px;
+}
+
+#ministere{
+	padding-left: 30px;
+}
 .container {
   margin: 0 auto;
   max-width: 600px;
